@@ -1,0 +1,7 @@
+longchain
+openai
+chromadb
+pypdf
+tiktoken
+panel
+notebook
